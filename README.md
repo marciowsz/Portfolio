@@ -16,7 +16,7 @@ Você pode acessar o projeto online clicando no link abaixo:
 - CSS3 (Flexbox, Grid)
 
 ## 👨🏻‍🚀 Sobre
-"Conexao"
+"Conexão"
 <table>
   <tbody>
     <tr>
