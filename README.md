@@ -15,13 +15,24 @@ Você pode acessar o projeto online clicando no link abaixo:
 - HTML5
 - CSS3 (Flexbox, Grid)
 
+## 👨🏻‍🚀 Sobre
+"Connect with me on LinkedIn to explore my career path and collaborate on amazing projects."
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/marcioreisfreire/"><img src="https://avatars.githubusercontent.com/u/115897910?s=400&u=307d6c928936a6857c0241dc1ac9aa02ffde158a&v=4" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Marcio Freire</b></sub></a><br />
+    </tr>
+  </tbody>
+</table>
+
+
 ## 📁 Como baixar e rodar o projeto
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/marciowsz/Portfolio.git
 
 # Acesse a pasta do projeto
-cd nome-do-projeto
+cd Portfolio
 
 # Abra o arquivo index.html no seu navegador
