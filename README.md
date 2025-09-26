@@ -16,7 +16,7 @@ Você pode acessar o projeto online clicando no link abaixo:
 - CSS3 (Flexbox, Grid)
 
 ## 👨🏻‍🚀 Sobre
-"Connect with me on LinkedIn to explore my career path and collaborate on amazing projects."
+"Conexao"
 <table>
   <tbody>
     <tr>
